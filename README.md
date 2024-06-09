@@ -12,7 +12,8 @@ including Customerld, CreditScore, Geography, Gender, Age, Tenure, Balance, NumO
 ### 1. Data Loading and Initial Inspection 
 Libraries Used: NumPy, Pandas, Matplotlib Seaborn  
 Data Loading. The dataset is loaded into a Pandas DataFrame. 
-### 2.Unique Values. Identification of unique values for categorical columns (Geography, Gender, NumOfProducts, etc.). 
+### 2.Unique Values
+Identification of unique values for categorical columns (Geography, Gender, NumOfProducts, etc.). 
 ### 3.	Data Cleaning 
 Duplicates. Checked for and confirmed no duplicates in the dataset. 
 Missing Values: Confirmed no missing values using 'df.isnull().sum(). 
